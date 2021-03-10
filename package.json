@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/PhobosXD/introducao-node/issues"
   },
-  "homepage": "https://github.com/PhobosXD/introducao-node#readme"
+  "homepage": "https://github.com/PhobosXD/introducao-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
